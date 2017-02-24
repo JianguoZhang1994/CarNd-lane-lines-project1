@@ -101,16 +101,17 @@ or
 ```sh
 $ activate carnd-term1
 ```
-** Opening the code in a Jupyter Notebook
+**Open** the code in a Jupyter Notebook
 
  If you are unfamiliar with Jupyter Notebooks, check out <A HREF="https://www.packtpub.com/books/content/basics-jupyter-notebook-and-python" target="_blank">Cyrille Rossant's Basics of Jupyter Notebook and Python</A> to get started.
 
 Jupyter is an ipython notebook where you can run blocks of code and see results interactively.  All the code for this project is contained in a Jupyter notebook. To start Jupyter in your browser, run the following command at the terminal prompt (be sure you're in your Python 3 environment!):
 
 `> jupyter notebook`
+
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
 
-** You can open and run my Project1.ipynb or just check Project1_online_result.html in jupyter notebook
+**You** can open and run my Project1.ipynb or just check Project1_online_result.html in jupyter notebook
 
 # Another way to set the environment and run jupyter notebook
 
