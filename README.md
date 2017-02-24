@@ -11,7 +11,7 @@ In this project I find lane lines in images using Python and OpenCV.  OpenCV mea
 
 The Project
 ---
-# There are two ways to run this program, one way is installing the starter kit following the install instructions. 
+## There are two ways to run this program, one way is installing the starter kit following the install instructions. 
 
 ## Configure and Manage Your Environment with Anaconda
 
