@@ -17,7 +17,7 @@ The Project
 
 Per the Anaconda [docs](http://conda.pydata.org/docs):
 
-> Conda is an open source package management system and environment management system 
+> For this project, we mainly using Anaconda,  Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. Conda is an open source package management system and environment management system 
 for installing multiple versions of software packages and their dependencies and 
 switching easily between them. It works on Linux, OS X and Windows, and was created 
 for Python programs but can package and distribute any software.
@@ -35,24 +35,19 @@ Using Anaconda consists of the following:
 
 **Download** the version of `miniconda` that matches your system. Make sure you download the version for Python 3.5.
 
-**NOTE**: There have been reports of issues creating an environment using miniconda `v4.3.13`. If it gives you issues try versions `4.3.11` or `4.2.12` from [here](https://repo.continuum.io/miniconda/).
+** Getting setup Anaconda with Python
 
-|        | Linux | Mac | Windows | 
-|--------|-------|-----|---------|
-| 64-bit | [64-bit (bash installer)][lin64] | [64-bit (bash installer)][mac64] | [64-bit (exe installer)][win64]
-| 32-bit | [32-bit (bash installer)][lin32] |  | [32-bit (exe installer)][win32]
+For this project, you will need Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. 
 
-[win64]: https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86_64.exe
-[win32]: https://repo.continuum.io/miniconda/Miniconda3-latest-Windows-x86.exe
-[mac64]: https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-[lin64]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
-[lin32]: https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86.sh
+We recommend downloading and installing the Anaconda Python 3 distribution from Continuum Analytics because it comes prepackaged with many of the Python dependencies you will need for this and future projects, makes it easy to install OpenCV, and includes Jupyter Notebook.  Beyond that, it is one of the most common Python distributions used in data analytics and machine learning, so a great choice if you're getting started in the field.
 
-**Install** [miniconda](http://conda.pydata.org/miniconda.html) on your machine. Detailed instructions:
+Choose the appropriate Python 3 Anaconda install package for your operating system <A HREF="https://www.continuum.io/downloads" target="_blank">here</A>.   Download and install the package.
 
-- **Linux:** http://conda.pydata.org/docs/install/quick.html#linux-miniconda-install
-- **Mac:** http://conda.pydata.org/docs/install/quick.html#os-x-miniconda-install
-- **Windows:** http://conda.pydata.org/docs/install/quick.html#windows-miniconda-install
+If you already have Anaconda for Python 2 installed, you can create a separate environment for Python 3 and all the appropriate dependencies with the following command:
+
+`>  conda create --name=yourNewEnvironment python=3 anaconda`
+
+`>  source activate yourNewEnvironment`
 
 **Setup** your the `carnd-term1` environment. 
 
@@ -113,9 +108,6 @@ or
 $ activate carnd-term1
 ```
 
-That's it. Now all of the `carnd-term1` libraries are available to you.
-
-To exit the environment when you have completed your work session, simply close the terminal window.
 
 
 
