@@ -1,5 +1,5 @@
 #**Finding Lane Lines on the Road** 
-**Jianguo Zhang, February 23, 2017. For more details, please visit Udacity**
+**Jianguo Zhang, February 23, 2017. For more details, please visit Udacity.**
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
