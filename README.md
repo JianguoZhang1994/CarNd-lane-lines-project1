@@ -1,5 +1,5 @@
 #**Finding Lane Lines on the Road** 
-
+**Jianguo Zhang, February 23, 2017**
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
 Overview
@@ -111,7 +111,7 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
 
-**You** can open and run my Project1.ipynb or just check Project1_online_result.html in jupyter notebook
+**You** can open and run my `Project1.ipynb` or just check `Project1_online_result.html` in jupyter notebook
 
 # Another way to set the environment and run jupyter notebook
 
@@ -175,5 +175,5 @@ Jupyter is an ipython notebook where you can run blocks of code and see results 
 
 A browser window will appear showing the contents of the current directory.  Click on the file called "P1.ipynb".  Another browser window will appear displaying the notebook.  Follow the instructions in the notebook to complete the project.  
 
-**Step 5:** You can open and run my Project1.ipynb or just check Project1_online_result.html. 
+**Step 5:** You can open and run my `Project1.ipynb` or just check `Project1_online_result.html`. 
 
