@@ -13,7 +13,7 @@ The Project
 ---
 # There are two ways to run this program, one way is installing the starter kit following the install instructions. 
 
-# Configure and Manage Your Environment with Anaconda
+## Configure and Manage Your Environment with Anaconda
 
 Per the Anaconda [docs](http://conda.pydata.org/docs):
 
