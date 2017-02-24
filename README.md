@@ -1,5 +1,4 @@
 #**Finding Lane Lines on the Road** 
-[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)]()
 
 <img src="laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
@@ -10,7 +9,7 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project I find lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.
 
-# There are two ways to run this program, one is installing the starter kit the other is following the install instructions. 
+# There are two ways to run this program, one way is installing the starter kit following the install instructions. 
 
 The Project
 ---
@@ -37,19 +36,13 @@ Using Anaconda consists of the following:
 
 **Download** the version of `miniconda` that matches your system. Make sure you download the version for Python 3.5.
 
-** Getting setup Anaconda with Python
+** Getting** setup Anaconda with Python
 
 For this project, you will need Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. 
 
 We recommend downloading and installing the Anaconda Python 3 distribution from Continuum Analytics because it comes prepackaged with many of the Python dependencies you will need for this and future projects, makes it easy to install OpenCV, and includes Jupyter Notebook.  Beyond that, it is one of the most common Python distributions used in data analytics and machine learning, so a great choice if you're getting started in the field.
 
 Choose the appropriate Python 3 Anaconda install package for your operating system <A HREF="https://www.continuum.io/downloads" target="_blank">here</A>.   Download and install the package.
-
-If you already have Anaconda for Python 2 installed, you can create a separate environment for Python 3 and all the appropriate dependencies with the following command:
-
-`>  conda create --name=yourNewEnvironment python=3 anaconda`
-
-`>  source activate yourNewEnvironment`
 
 **Setup** your the `carnd-term1` environment. 
 
