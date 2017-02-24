@@ -9,10 +9,9 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 In this project I find lane lines in images using Python and OpenCV.  OpenCV means "Open-Source Computer Vision", which is a package that has many useful tools for analyzing images.
 
-# There are two ways to run this program, one way is installing the starter kit following the install instructions. 
-
 The Project
 ---
+# There are two ways to run this program, one way is installing the starter kit following the install instructions. 
 
 # Configure and Manage Your Environment with Anaconda
 
@@ -113,7 +112,7 @@ A browser window will appear showing the contents of the current directory.  Cli
 
 ** You can open and run my Project1.ipynb or just check Project1_online_result.html in jupyter notebook
 
-## Another way to set the environment and run jupyter notebook
+# Another way to set the environment and run jupyter notebook
 
 **Step 1:** Getting setup with Python
 
