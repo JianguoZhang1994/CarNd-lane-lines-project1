@@ -35,7 +35,7 @@ Using Anaconda consists of the following:
 
 **Download** the version of `miniconda` that matches your system. Make sure you download the version for Python 3.5.
 
-** Getting** setup Anaconda with Python
+**Getting** setup Anaconda with Python
 
 For this project, you will need Python 3 along with the numpy, matplotlib, and OpenCV libraries, as well as Jupyter Notebook installed. 
 
